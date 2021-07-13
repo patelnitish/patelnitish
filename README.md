@@ -3,6 +3,7 @@
 - 👀 I’m interested in Computer science & technology.
 - 🌱 I’m currently learning C, C++ , JAVA & Front end essentials.
 - 🔗 CONNECT WITH ME ON LINKEDIN:- www.linkedin.com/in/nitish-patel-nepal
+- 🔗 CONNECT WITH ME ON SOCIAL MEDIAS:- https://linktr.ee/nitish.ptl
 
 <!---
 patelnitish/patelnitish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
