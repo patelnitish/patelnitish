@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patelnitish
+- - 💞️ Hustler, Dreamer, Learner.
 - 👀 I’m interested in Computer science & technology.
 - 🌱 I’m currently learning C, C++ , JAVA & Front end essentials.
-- 💞️ Hustler, Dreamer, Learner.
 - 🔗 CONNECT WITH ME ON LINKEDIN:- www.linkedin.com/in/nitish-patel-nepal
 
 <!---
